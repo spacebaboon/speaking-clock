@@ -1,13 +1,10 @@
-Speaking Clock
-==============
+Programming exercise: speaking clock
+====================================
 
-code kata in Groovy
+Your company is writing the firmware for an alarm clock which will speak the time, so it can be used in the night and for people with visual disabilities.  
+The hardware contains a speech synthesiser, which will read out textual input. 
+You have been asked to write the software to convert a system time into the full text in English, as in the examples below. The clock runs on the JVM platform. Your code needs to run as a service which can be injected into the running application.
 
-
-programming exercise: speaking clock
-===================================
-Your company is writing the firmware for an alarm clock which will speak the time, so it can be used in the night and for people with visual disabilies.  The hardware contains a speech synthesiser, which will read out textual input. 
-You have been asked to write the software to convert a system time into the full text in English, as in the examples below.
 
 |System Time	|English|
 |-------|---------|
